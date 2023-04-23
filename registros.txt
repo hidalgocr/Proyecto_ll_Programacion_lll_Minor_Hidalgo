@@ -1,5 +1,4 @@
-Laboratorio 1, fecha 10/10/2025: RESERVADO al docente Luis de la seccion: 7-5
-Laboratorio 1, fecha 10/10/2023: RESERVADO al docente Luis de la seccion: 7-2
-Laboratorio 1, fecha 10/10/1010: RESERVADO al docente Luis de la seccion: 7
-Laboratorio 1, fecha 10/11/2024: RESERVADO al docente Luis de la seccion: 7-2
-Laboratorio 1, fecha 10/10/2026: RESERVADO al docente L de la seccion: 7-2
+Laboratorio 1, fecha 10/10/2023: RESERVADO al docente Luid de la seccion: 7'5
+Laboratorio 2, fecha 10/11/2023: RESERVADO al docente Pedro de la seccion: 7'8
+Laboratorio 3, fecha 10/12/2023: RESERVADO al docente Fernando de la seccion: 7'8
+Laboratorio 4, fecha 11/01/2023: RESERVADO al docente Elias de la seccion: 7'8

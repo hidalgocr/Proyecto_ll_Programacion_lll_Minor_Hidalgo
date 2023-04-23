@@ -2,13 +2,13 @@ import re
 import json
 
 
+# Funcion que lo que hace es validarme la fecha con una libreria
 def validarFecha(fecha):
     patron = r'^\d{2}/\d{2}/\d{4}$'
     return bool(re.match(patron, fecha))
 
 
-
-
+#Funcion para realizar el calculo de porcentaje de computadoras que se encuentra en el json
 def calcular_porcentaje():
     # cargamos el JSON desde un archivo o una cadena, por ejemplo:
     with open('inventario_laboratorio_2023.json') as f:
@@ -27,6 +27,7 @@ def calcular_porcentaje():
     return '\n'.join(resultados)
 
 
+# Calcular la media de los elementos de todos los laboratorios
 def calcular_promedio_elementos():
     with open('inventario_laboratorio_2023.json') as f:
         data = json.load(f)
@@ -43,6 +44,7 @@ def calcular_promedio_elementos():
     return promedios
 
 
+# Calcular el porcentaje de elementos de todos los laboratorios
 def calcular_porcentaje_equipos():
     # cargamos el JSON desde un archivo o una cadena, por ejemplo:
     with open('inventario_laboratorio_2023.json') as f:

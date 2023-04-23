@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 class MainWindow:
     def __init__(self, master):
         self.master = master
-        master.title("Reserva de laboratorios")
+        master.title("Bienvenidos a Laboratorios")
 
         # Cargar imagen de fondo
         self.bg_image = ImageTk.PhotoImage(Image.open("fondo.jpg"))
