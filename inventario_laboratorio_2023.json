@@ -1,0 +1,45 @@
+{
+    "matriz": [
+      {
+        "nombre": "Laboratorio",
+        "Numero": 1,
+        "Computadoras": 20,
+        "Impresora HP": 10,
+        "Arduinos UNO": 2,
+        "teclados": 20,
+        "mouses": 24,
+        "parlantes":24
+      },
+      {
+        "nombre": "Laboratorio",
+        "Numero": 2,
+        "Computadoras": 10,
+        "Impresora HP": 5,
+        "Arduinos UNO": 3,
+        "teclados": 10,
+        "mouses": 15,
+        "parlantes":30
+      },
+      {
+        "nombre": "Laboratorio",
+        "Numero": 3,
+        "Computadoras": 40,
+        "Impresora HP": 10,
+        "Arduinos UNO": 10,
+        "teclados": 10,
+        "mouses": 20,
+        "parlantes":40
+      },
+      {
+        "nombre": "Laboratorio",
+        "Numero": 4,
+        "Computadoras": 20,
+        "Impresora HP": 10,
+        "Arduinos UNO": 4,
+        "teclados": 10,
+        "mouses": 5,
+        "parlantes":4
+      }
+  
+    ]
+  }
