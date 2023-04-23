@@ -31,11 +31,11 @@ class MainWindow:
         self.welcome_label = Label(self.header_frame, text="Bienvenidos a Registros de Laboratorios", font=("Arial", 30, "bold"), fg="white", bg="#0D47A1")
         self.welcome_label.pack()
 
-        # Crear botón para abrir la ventana de laboratorios
+        # Crear botón para abrir la ventana de consulta
         self.consultar_button = Button(self.frame, text="Consultar Laboratorios", command=self.open_clases, bg="#555555", fg="white")
         self.consultar_button.pack()
 
-        # Crear botón para abrir la nueva ventana
+        # Crear botón para abrir la ventana Registros
         self.nueva_ventana_button = Button(self.frame, text="Registros", command=self.open_nueva_registros, bg="#555555", fg="white")
         self.nueva_ventana_button.pack(pady=5)
         self.nueva_ventana_button = Button(self.frame, text="Calculos", command=self.open_nueva_calculos, bg="#555555", fg="white")
